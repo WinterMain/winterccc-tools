@@ -6,6 +6,34 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1927581",
+      "name": "操作-翻译",
+      "font_class": "fanyi",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "12354587",
+      "name": "格式化",
+      "font_class": "geshihua",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "18174835",
+      "name": "文件,json",
+      "font_class": "json",
+      "unicode": "ea42",
+      "unicode_decimal": 59970
+    },
+    {
+      "icon_id": "26201162",
+      "name": "图片处理",
+      "font_class": "tupianchuli",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
       "icon_id": "1710454",
       "name": "编码转换",
       "font_class": "encode-change",
