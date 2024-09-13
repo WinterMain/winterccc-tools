@@ -6,6 +6,27 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "7617119",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "19858069",
+      "name": "浏览器插件",
+      "font_class": "liulanqichajian",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "22773692",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
       "icon_id": "1927581",
       "name": "操作-翻译",
       "font_class": "fanyi",
