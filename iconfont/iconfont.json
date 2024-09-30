@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "31084177",
+      "name": "区块链-7",
+      "font_class": "blockchain",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
       "icon_id": "627566",
       "name": "二维码",
       "font_class": "erweima",
