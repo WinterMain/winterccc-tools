@@ -1,1 +1,1 @@
-{"version":"1.0.1.20241003221347","codeVersion":"0e65e68"}
+{"version":"1.0.1.20241005010348","codeVersion":"bcf6b81"}
