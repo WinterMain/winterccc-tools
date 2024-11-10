@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://tools.winterccc.com/sitemap.xml
+Sitemap: https://winterccc.com/sitemap.xml
