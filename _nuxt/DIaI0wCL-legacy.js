@@ -1,1 +1,0 @@
-System.register(["./D4dqOEAs-legacy.js"],(function(e,t){"use strict";var r,s;return{setters:[e=>{r=e.L,s=e.f}],execute:function(){e("u",(({from:e,replacement:t,scope:c,version:i,ref:n,type:u="API"},f)=>{r((()=>s(f)),(e=>{}),{immediate:!0})}))}}}));
