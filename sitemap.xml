@@ -5,30 +5,57 @@
         <image:image>
             <image:loc>https://winterccc.com/images/warmer.png</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/" />
     </url>
     <url>
         <loc>https://winterccc.com/abidecoder</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/abidecoder" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/abidecoder" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/abidecoder" />
     </url>
     <url>
         <loc>https://winterccc.com/adatools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/adatools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/adatools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/adatools" />
     </url>
     <url>
         <loc>https://winterccc.com/aes</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/aes" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/aes" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/aes" />
     </url>
     <url>
         <loc>https://winterccc.com/base64</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/base64" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/base64" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/base64" />
     </url>
     <url>
         <loc>https://winterccc.com/chscht</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/chscht" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/chscht" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/chscht" />
     </url>
     <url>
         <loc>https://winterccc.com/contract_evm</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/contract_evm" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/contract_evm" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/contract_evm" />
     </url>
     <url>
         <loc>https://winterccc.com/decodetx</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/decodetx" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/decodetx" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/decodetx" />
     </url>
     <url>
         <loc>https://winterccc.com/des</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/des" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/des" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/des" />
     </url>
     <url>
         <loc>https://winterccc.com/donate</loc>
@@ -41,105 +68,204 @@
         <image:image>
             <image:loc>https://winterccc.com/images/author.jpeg</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/donate" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/donate" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/donate" />
     </url>
     <url>
         <loc>https://winterccc.com/encoder</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/encoder" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/encoder" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/encoder" />
     </url>
     <url>
         <loc>https://winterccc.com/hex</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hex" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hex" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hex" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacmd5</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacmd5" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacmd5" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacmd5" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacripemd160</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacripemd160" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacripemd160" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacripemd160" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacsha1</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacsha1" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacsha1" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacsha1" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacsha224</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacsha224" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacsha224" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacsha224" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacsha256</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacsha256" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacsha256" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacsha256" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacsha384</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacsha384" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacsha384" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacsha384" />
     </url>
     <url>
         <loc>https://winterccc.com/hmacsha512</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/hmacsha512" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/hmacsha512" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/hmacsha512" />
     </url>
     <url>
         <loc>https://winterccc.com/jsonformat</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/jsonformat" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/jsonformat" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/jsonformat" />
     </url>
     <url>
         <loc>https://winterccc.com/life</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/life" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/life" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/life" />
     </url>
     <url>
         <loc>https://winterccc.com/md5</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/md5" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/md5" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/md5" />
     </url>
     <url>
         <loc>https://winterccc.com/microsofttranslate</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/microsofttranslate" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/microsofttranslate" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/microsofttranslate" />
     </url>
     <url>
         <loc>https://winterccc.com/pbkdf2</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/pbkdf2" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/pbkdf2" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/pbkdf2" />
     </url>
     <url>
         <loc>https://winterccc.com/pic2base64</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/pic2base64" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/pic2base64" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/pic2base64" />
     </url>
     <url>
         <loc>https://winterccc.com/qrcode</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/qrcode" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/qrcode" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/qrcode" />
     </url>
     <url>
         <loc>https://winterccc.com/qrcodemul</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/qrcodemul" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/qrcodemul" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/qrcodemul" />
     </url>
     <url>
         <loc>https://winterccc.com/qrcodereader</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/qrcodereader" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/qrcodereader" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/qrcodereader" />
     </url>
     <url>
         <loc>https://winterccc.com/rabbit</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/rabbit" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/rabbit" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/rabbit" />
     </url>
     <url>
         <loc>https://winterccc.com/rc4</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/rc4" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/rc4" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/rc4" />
     </url>
     <url>
         <loc>https://winterccc.com/rc4drop</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/rc4drop" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/rc4drop" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/rc4drop" />
     </url>
     <url>
         <loc>https://winterccc.com/ripemd160</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/ripemd160" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/ripemd160" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/ripemd160" />
     </url>
     <url>
         <loc>https://winterccc.com/sha1</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/sha1" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/sha1" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/sha1" />
     </url>
     <url>
         <loc>https://winterccc.com/sha3</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/sha3" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/sha3" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/sha3" />
     </url>
     <url>
         <loc>https://winterccc.com/sha224</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/sha224" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/sha224" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/sha224" />
     </url>
     <url>
         <loc>https://winterccc.com/sha256</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/sha256" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/sha256" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/sha256" />
     </url>
     <url>
         <loc>https://winterccc.com/sha384</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/sha384" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/sha384" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/sha384" />
     </url>
     <url>
         <loc>https://winterccc.com/sha512</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/sha512" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/sha512" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/sha512" />
     </url>
     <url>
         <loc>https://winterccc.com/tetris</loc>
         <image:image>
             <image:loc>https://winterccc.com/images/rabit1.svg?t=1</image:loc>
         </image:image>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/tetris" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/tetris" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/tetris" />
     </url>
     <url>
         <loc>https://winterccc.com/tontools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/tontools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/tontools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/tontools" />
     </url>
     <url>
         <loc>https://winterccc.com/tripledes</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/tripledes" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/tripledes" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/tripledes" />
     </url>
     <url>
         <loc>https://winterccc.com/xrptools</loc>
+        <xhtml:link rel="alternate" hreflang="zh-hans" href="https://winterccc.com/xrptools" />
+        <xhtml:link rel="alternate" hreflang="zh-hant" href="https://winterccc.com/xrptools" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://winterccc.com/xrptools" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2025-09-09T06:49:42.390Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v6.0.1 at 2026-01-03T13:10:54.341Z -->
